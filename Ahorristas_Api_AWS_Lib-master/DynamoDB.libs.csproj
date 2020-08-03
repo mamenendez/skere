@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.DYNAMODBV2" Version="3.3.106.36" />
+    <PackageReference Include="AWSSDK.EXTENSIONS.NETCORE.SETUP" Version="3.3.101" />
+  </ItemGroup>
+
+</Project>
