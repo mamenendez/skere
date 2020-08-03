@@ -56,6 +56,7 @@ namespace DynamoDB.libs.DynamoDB
                 // It was an update
             }
             else
+
             {
                 // It was an insert
             }
